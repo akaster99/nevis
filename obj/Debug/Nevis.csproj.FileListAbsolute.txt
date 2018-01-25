@@ -1,0 +1,59 @@
+C:\Users\이제혁\source\repos\C#\bin\Debug\Nevis_VS2010+.exe.config
+C:\Users\이제혁\source\repos\C#\bin\Debug\Nevis_VS2010+.exe
+C:\Users\이제혁\source\repos\C#\bin\Debug\Nevis_VS2010+.pdb
+C:\Users\이제혁\source\repos\C#\bin\Debug\FaceSDK.NET.dll
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis.Form1.resources
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis.InputName.resources
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis_VS2010.Properties.Resources.resources
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis.csproj.GenerateResource.Cache
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis.csproj.CoreCompileInputs.cache
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis_VS2010+.exe
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis_VS2010+.pdb
+C:\Users\이제혁\source\repos\C# - 복사본\bin\Debug\Nevis_VS2010+.exe.config
+C:\Users\이제혁\source\repos\C# - 복사본\bin\Debug\Nevis_VS2010+.exe
+C:\Users\이제혁\source\repos\C# - 복사본\bin\Debug\Nevis_VS2010+.pdb
+C:\Users\이제혁\source\repos\C# - 복사본\bin\Debug\FaceSDK.NET.dll
+C:\Users\이제혁\source\repos\C# - 복사본\obj\Debug\Nevis.csprojResolveAssemblyReference.cache
+C:\Users\이제혁\source\repos\C# - 복사본\obj\Debug\Nevis.Form1.resources
+C:\Users\이제혁\source\repos\C# - 복사본\obj\Debug\Nevis.InputName.resources
+C:\Users\이제혁\source\repos\C# - 복사본\obj\Debug\Nevis_VS2010.Properties.Resources.resources
+C:\Users\이제혁\source\repos\C# - 복사본\obj\Debug\Nevis.csproj.GenerateResource.Cache
+C:\Users\이제혁\source\repos\C# - 복사본\obj\Debug\Nevis.csproj.CoreCompileInputs.cache
+C:\Users\이제혁\source\repos\C# - 복사본\obj\Debug\Nevis_VS2010+.exe
+C:\Users\이제혁\source\repos\C# - 복사본\obj\Debug\Nevis_VS2010+.pdb
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\bin\Debug\Nevis_VS2010+.exe.config
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\bin\Debug\Nevis_VS2010+.exe
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\bin\Debug\Nevis_VS2010+.pdb
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\bin\Debug\FaceSDK.NET.dll
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\obj\Debug\Nevis.csprojResolveAssemblyReference.cache
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\obj\Debug\Nevis.Form1.resources
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\obj\Debug\Nevis.InputName.resources
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\obj\Debug\Nevis_VS2010.Properties.Resources.resources
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\obj\Debug\Nevis.csproj.GenerateResource.Cache
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\obj\Debug\Nevis.csproj.CoreCompileInputs.cache
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\obj\Debug\Nevis_VS2010+.exe
+C:\Users\akaster99\Desktop\C# - 복사본-20180113T131522Z-001\C# - 복사본\obj\Debug\Nevis_VS2010+.pdb
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\bin\Debug\Nevis_VS2010+.exe.config
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\bin\Debug\Nevis_VS2010+.exe
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\bin\Debug\Nevis_VS2010+.pdb
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\bin\Debug\FaceSDK.NET.dll
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\obj\Debug\Nevis.csprojResolveAssemblyReference.cache
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\obj\Debug\Nevis.Form1.resources
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\obj\Debug\Nevis.InputName.resources
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\obj\Debug\Nevis_VS2010.Properties.Resources.resources
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\obj\Debug\Nevis.csproj.GenerateResource.Cache
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\obj\Debug\Nevis.csproj.CoreCompileInputs.cache
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\obj\Debug\Nevis_VS2010+.exe
+C:\Users\akaster99\Desktop\NEVIS\NEVIS\obj\Debug\Nevis_VS2010+.pdb
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\bin\Debug\Nevis_VS2010+.exe.config
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\bin\Debug\Nevis_VS2010+.exe
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\bin\Debug\Nevis_VS2010+.pdb
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\bin\Debug\FaceSDK.NET.dll
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\obj\Debug\Nevis.csprojResolveAssemblyReference.cache
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\obj\Debug\Nevis.Form1.resources
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\obj\Debug\Nevis.InputName.resources
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\obj\Debug\Nevis_VS2010.Properties.Resources.resources
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\obj\Debug\Nevis.csproj.GenerateResource.Cache
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\obj\Debug\Nevis.csproj.CoreCompileInputs.cache
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\obj\Debug\Nevis_VS2010+.exe
+C:\Users\akaster99\Desktop\nevis-master\NEVIS\obj\Debug\Nevis_VS2010+.pdb

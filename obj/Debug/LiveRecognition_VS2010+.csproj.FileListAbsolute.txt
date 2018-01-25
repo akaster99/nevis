@@ -1,0 +1,24 @@
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\bin\Debug\Nevis_VS2010+.exe.config
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\bin\Debug\Nevis_VS2010+.exe
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\bin\Debug\Nevis_VS2010+.pdb
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\bin\Debug\FaceSDK.NET.dll
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\obj\Debug\Nevis_VS2010+.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\obj\Debug\Nevis.Form1.resources
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\obj\Debug\Nevis.InputName.resources
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\obj\Debug\Nevis_VS2010.Properties.Resources.resources
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\obj\Debug\Nevis_VS2010+.csproj.GenerateResource.Cache
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\obj\Debug\Nevis_VS2010+.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\obj\Debug\Nevis_VS2010+.exe
+C:\Program Files (x86)\Luxand\FaceSDK\samples\Nevis\C#\obj\Debug\Nevis_VS2010+.pdb
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis_VS2010+.csprojResolveAssemblyReference.cache
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis.Form1.resources
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis.InputName.resources
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis_VS2010.Properties.Resources.resources
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis_VS2010+.csproj.GenerateResource.Cache
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis_VS2010+.csproj.CoreCompileInputs.cache
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis_VS2010+.exe
+C:\Users\이제혁\source\repos\C#\obj\Debug\Nevis_VS2010+.pdb
+C:\Users\이제혁\source\repos\C#\bin\Debug\Nevis_VS2010+.exe.config
+C:\Users\이제혁\source\repos\C#\bin\Debug\Nevis_VS2010+.exe
+C:\Users\이제혁\source\repos\C#\bin\Debug\Nevis_VS2010+.pdb
+C:\Users\이제혁\source\repos\C#\bin\Debug\FaceSDK.NET.dll
